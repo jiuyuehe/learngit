@@ -5,3 +5,5 @@ this file is used sublime write
 this goodtime
 
 ojk  this test 2
+
+git status command;
