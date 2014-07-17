@@ -9,3 +9,5 @@ yes add the seven line
 this line 9 
 
 add remote  kukukuk;
+
+C:\Users\jiuyuehe\Documents\GitHub\learngit\readme.txt
